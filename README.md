@@ -1,5 +1,13 @@
 # Welcome to your Lovable project
 
+## Live Demo Project
+
+<img width="1312" height="644" alt="image" src="https://github.com/user-attachments/assets/ca2ea0e3-d205-47d1-9872-6d9a17cfd3dc" />
+
+
+ <a aligin='center' href="https://allone-ride.vercel.app/auth"><strong>➥ Live Demo</strong></a>
+
+
 ## Project info
 
 **URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
@@ -60,14 +68,10 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 
-## How can I deploy this project?
+### License
 
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
+This project is **free to use** and does not contains any license.
 
-## Can I connect a custom domain to my Lovable project?
+### Please only open issues for actual bugs, feature requests or discussions should happen in Discussions or via my email.
 
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+### Contact Email: roziyevnozim43@gmail.com
