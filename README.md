@@ -2,15 +2,13 @@
 
 ## Live Demo Project
 
-<img width="1312" height="644" alt="image" src="https://github.com/user-attachments/assets/ca2ea0e3-d205-47d1-9872-6d9a17cfd3dc" />
+<img width="1366" height="637" alt="image" src="https://github.com/user-attachments/assets/27022f47-da47-4909-8bc7-b29a543c4540" />
+
+
+<img width="1366" height="639" alt="image" src="https://github.com/user-attachments/assets/4ba97fa6-6fba-41c2-bb1f-983f395c95ca" />
 
 
  <a aligin='center' href="https://allone-ride.vercel.app/auth"><strong>➥ Live Demo</strong></a>
-
-
-## Project info
-
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
 
 ## How can I edit this code?
 
