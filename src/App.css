@@ -1,0 +1,6 @@
+/* AllOne Taxi - Custom App Styles */
+/* All core styles are in index.css via the design system */
+
+#root {
+  min-height: 100vh;
+}
