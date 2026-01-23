@@ -11,7 +11,7 @@
  <a aligin='center' href="https://allone-ride.vercel.app/auth"><strong>➥ Live Demo</strong></a>
 
 
-Follow these steps:
+##Follow these steps:
 
 ```sh
 # Step 1: Clone the repository using the project's Git URL.
@@ -28,7 +28,7 @@ npm run dev
 ```
 
 
-Create a `.env` file:
+##Create a `.env` file:
 ```env
 VITE_SUPABASE_PROJECT_ID=""
 VITE_SUPABASE_PUBLISHABLE_KEY=""
